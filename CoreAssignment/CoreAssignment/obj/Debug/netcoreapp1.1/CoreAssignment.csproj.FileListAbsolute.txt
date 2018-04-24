@@ -1,0 +1,9 @@
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp1.1\CoreAssignment.deps.json
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp1.1\CoreAssignment.runtimeconfig.json
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp1.1\CoreAssignment.runtimeconfig.dev.json
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp1.1\CoreAssignment.dll
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp1.1\CoreAssignment.AssemblyInfo.cs
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp1.1\CoreAssignment.pdb
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp1.1\CoreAssignment.dll
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp1.1\CoreAssignment.pdb
+D:\Projects\CoreAssignment\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp1.1\CoreAssignment.csprojResolveAssemblyReference.cache
