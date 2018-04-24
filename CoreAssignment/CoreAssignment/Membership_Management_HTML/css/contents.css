@@ -1,0 +1,155 @@
+
+/* contents
+ ---------------------------------------------------------------- */
+	#contents h3{
+		margin:0 0 15px 0;
+		padding:5px 0 5px 7px;
+		background:url(../images/dot.gif) repeat-x 0 bottom;
+		border-left:7px solid #47B3E1;
+	}
+
+	#contents .button{
+		margin:15px auto 0 auto;
+		padding:0 0 0 0;
+		text-align:center;
+		font-size:1.00em;
+	}
+
+	#contents ul.button li{
+		margin:0 0 0 0;
+		padding:0 0 0 10px;
+		float:left;
+	}
+
+	#contents table{
+		width:550px;
+		margin:0 auto 0 auto;
+		padding:0 0 0 0;
+		border:1px solid #adb7be;
+	}
+
+	#contents table th{
+		width:150px;
+		margin:0 0 0 0;
+		padding:6px 6px 6px 6px;
+		text-align:left;
+		background-color:#EAF4FC;
+		border:1px solid #adb7be;
+	}
+
+	#contents table td{
+		margin:0 0 0 0;
+		padding:6px 6px 6px 6px;
+		text-align:left;
+		border:1px solid #adb7be;
+	}
+
+	#contents .box{
+		width:360px;
+		margin:0 auto 0 auto;
+		padding:20px 20px 20px 20px;
+		border:1px solid #adb7be;
+		text-align:center;
+	}
+
+	#contents .box h4{
+		margin:0 0 0 0;
+		padding:0 0 0 0;
+		font-size:1.20em;
+		font-weight:normal;
+	}
+
+
+
+/* form
+ ---------------------------------------------------------------- */
+	.f_text{
+		width:180px;
+		height:15px;
+		margin:0 0 0 0;
+		padding:2px 3px 2px 3px;
+		border:1px solid #c1c6c9;
+	}
+
+	#post{
+		width:92px;
+	}
+
+	#post1{
+		width:50px;
+		margin:0 5px 0 0;
+	}
+
+	#post2{
+		width:50px;
+		margin:0 0 0 5px;
+	}
+
+	#pref{
+		width:100px;
+		height:23px;
+	}
+
+	#address{
+		width:330px;
+	}
+
+	#phone1{
+		width:50px;
+		margin:0 5px 0 0;
+	}
+
+	#phone2{
+		width:50px;
+		margin:0 5px 0 5px;
+	}
+
+	#phone3{
+		width:50px;
+		margin:0 0 0 5px;
+	}
+
+	#gender{
+		width:100px;
+		height:23px;
+	}
+
+
+
+/* form button
+ ---------------------------------------------------------------- */
+	.f_button{
+		width:100px;
+		height:24px;
+		padding:0 0 0 0;
+		line-height:1.0;
+		font-size:1.00em;
+		color:#2f4758;
+		background:url(../images/bg-btn.gif) repeat-x 0 0;
+		border:1px solid #0e6cab;
+		font-weight:bold;
+	}
+
+	.go-login{
+		width:130px;
+	}
+
+	.member{
+		width:130px;
+	}
+
+	.info{
+		width:120px;
+	}
+
+	.rerutn_s{
+		width:130px;
+	}
+
+	.go-account{
+		width:180px;
+	}
+
+	.go-search{
+		width:180px;
+	}

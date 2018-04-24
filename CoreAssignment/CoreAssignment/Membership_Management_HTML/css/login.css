@@ -1,0 +1,44 @@
+
+/* use for login.html
+ ---------------------------------------------------------------- */
+	#contents .box{
+		width:360px;
+		margin:0 auto 0 auto;
+		padding:15px 20px 10px 20px;
+		border:1px solid #adb7be;
+		line-height:1.8;
+	}
+
+	#contents ul{
+		width:320px;
+		margin:0 auto 0 auto;
+	}
+
+	#contents ul li{
+		margin:0 0 5px 0;
+		padding:0 0 0 110px;
+		text-align:left;
+	}
+
+	#contents ul li label{
+		width:110px;
+		margin:0 0 0 -110px;
+		padding:0 0 0 0;
+		float:left;
+	}
+
+	#contents ul li.button{
+		margin:0 0 0 0;
+		padding:10px 0 0 0;
+	}
+
+	#contents ul.btn{
+		width:300px;
+		margin:10px auto 0 auto;
+	}
+
+	#contents ul.btn li{
+		margin:0 0 0 0;
+		padding:0 0 0 23px;
+		float:left;
+	}

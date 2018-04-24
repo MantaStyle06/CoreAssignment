@@ -1,0 +1,151 @@
+/* common
+ ---------------------------------------------------------------- */
+	/* ブラウザの初期値をクリア
+	............................................................... */
+		body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,br,div,span,img,a,form,select,option,input,button,table,tr,td,th,caption,noscript{
+			margin:0 0 0 0;
+			padding:0 0 0 0;
+		}
+		img{
+			border:none;
+		}
+		ul{
+			list-style:none;
+		}
+		table{
+			table-layout:fixed;
+			border-collapse:collapse;
+		}
+		textarea{
+			font-size:1em;
+		}
+
+	/* スクロールバー for FireFox & Opera
+	............................................................... */
+		html{
+			height:100%;
+			margin-bottom:1px;/* 1pxスクロールできてしまう */
+			/*overflow-y:scroll; Operaにはきかない */
+			/*overflow:scroll; 横スクロールまででてしまう */
+		}
+
+	/* リンクスタイルをクリア
+	............................................................... */
+		a:link{
+			border:none;
+			text-decoration:none;
+			color:#444;
+		}
+		a:active{
+			border:none;
+			text-decoration:none;
+			color:#444;
+		}
+		a:visited{
+			border:none;
+			text-decoration:none;
+			color:#444;
+		}
+		a:hover{
+			border:none;
+			text-decoration:underline;
+			color:#444;
+		}
+
+	/* フロート解除
+	............................................................... */
+		.release_b{
+			clear:both;
+		}
+		.release_r{
+			clear:right;
+		}
+		.release_l{
+			clear:left;
+		}
+
+	/* 背景色 文字の大きさ 行送り
+	............................................................... */
+		body{
+			font-size:12px;
+			font-family:KozGoPro;
+			color:#444;
+			border-top:3px solid #2b9bca;
+			background-color:#e7e7e7;
+		}
+
+	/* float 自動クリア
+	............................................................... */
+		.clearfix{
+			_height: 1px;
+			min-height: 1px;
+			/*￥*//*/
+			height: auto;
+			overflow: hidden;
+			/**/
+		}
+		.clearfix:after{
+			content:"";
+			clear:both;
+			height:0;
+			display:block;
+			visibility:hidden;
+		}
+		
+		.clear{
+			clear:both;
+		}
+
+
+/* wrapper
+ ---------------------------------------------------------------- */
+	#wrapper{
+		width:770px;
+		margin:0 auto 0 auto;
+		padding:0 0 0 0;
+		background:url(../images/bg-wrapper.gif) repeat-y 0 0;
+	}
+
+
+/* header
+ ---------------------------------------------------------------- */
+	#header{
+		width:750px;
+		height:63px;
+		margin:0 auto 0 auto;
+		padding:0 0 0 0;
+		border-bottom:1px solid #2b9bca;
+		background:url(../images/bg-header.png) repeat-x 0 bottom;
+		position:relative;
+	}
+
+	#header h1{
+		position:absolute;
+		top:10px;
+		left:20px;
+	}
+
+	#header h2{
+		position:absolute;
+		top:32px;
+		left:95px;
+	}
+
+/* contents
+ ---------------------------------------------------------------- */
+	#contents{
+		width:710px;
+		margin:30px auto 30px auto;
+		padding:0 0 0 0;
+	}
+
+/* footer
+ ---------------------------------------------------------------- */
+	#footer{
+		margin:0 0 0 0;
+		padding:5px 0 20px 0;
+		text-align:center;
+		background:url(../images/bg-footer.gif) no-repeat 0 bottom;
+	}
+
+

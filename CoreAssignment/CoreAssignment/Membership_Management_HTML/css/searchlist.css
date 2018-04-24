@@ -1,0 +1,28 @@
+
+/* use for searchlist.html
+ ---------------------------------------------------------------- */
+	#contents ul{
+		width:360px;
+		margin:0 auto 0 auto;
+	}
+
+	#contents ul li{
+		margin:0 0 5px 0;
+		padding:0 0 3px 215px;
+		line-height:1.8;
+		border-bottom:1px solid #ccc;
+	}
+
+	#contents ul li span{
+		width:220px;
+		margin:0 5px 0 -210px;
+		padding:0 0 0 0;
+		float:left;
+	}
+
+	#contents ul li.title{
+		padding:0 0 0 215px;
+		font-weight:bold;
+		border-bottom:3px solid #ccc;
+	}
+
